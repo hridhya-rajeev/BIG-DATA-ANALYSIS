@@ -4,3 +4,6 @@
 # INTERN ID: CT04DH2665
 # DOMAIN: DATA ANALYTICS
 # DURATION: 1 MONTH
+
+# OUTPUT
+![Image](https://github.com/user-attachments/assets/2de809e5-6b75-4d75-9045-0c1ac600685c)
